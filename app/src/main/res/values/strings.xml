@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrmLite Sample App</string>
+    <string name="add_user">Add User</string>
+    <string name="show_all_users">Show All Users</string>
+    <string name="no_users_message">No users saved in database</string>
+    <string name="error_empty_fields">Empty fields</string>
+</resources>
